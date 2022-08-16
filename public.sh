@@ -1,0 +1,1 @@
+sudo cp /home/hermione/CLionProjects/EFIFrontend/cmake-build-debug/bin/bootx64.efi ~/efitester/EFI/BOOT/bootx64.efi

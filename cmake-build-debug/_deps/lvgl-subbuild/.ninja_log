@@ -1,0 +1,21 @@
+# ninja log v5
+0	18	1660591351957991874	lvgl-populate-prefix/src/lvgl-populate-stamp/lvgl-populate-mkdir	ad68e0e8d99cd776
+0	18	1660591351957991874	/home/hermione/CLionProjects/EFIFrontend/cmake-build-debug/_deps/lvgl-subbuild/lvgl-populate-prefix/src/lvgl-populate-stamp/lvgl-populate-mkdir	ad68e0e8d99cd776
+19	32751	1660591384693556175	lvgl-populate-prefix/src/lvgl-populate-stamp/lvgl-populate-download	63879786ef5d6f4d
+19	32751	1660591384693556175	/home/hermione/CLionProjects/EFIFrontend/cmake-build-debug/_deps/lvgl-subbuild/lvgl-populate-prefix/src/lvgl-populate-stamp/lvgl-populate-download	63879786ef5d6f4d
+32752	34593	0	lvgl-populate-prefix/src/lvgl-populate-stamp/lvgl-populate-update	56ddea4edc20766d
+32752	34593	0	/home/hermione/CLionProjects/EFIFrontend/cmake-build-debug/_deps/lvgl-subbuild/lvgl-populate-prefix/src/lvgl-populate-stamp/lvgl-populate-update	56ddea4edc20766d
+34593	34605	1660591386546827194	lvgl-populate-prefix/src/lvgl-populate-stamp/lvgl-populate-patch	cf03b9eeeedbe1c
+34593	34605	1660591386546827194	/home/hermione/CLionProjects/EFIFrontend/cmake-build-debug/_deps/lvgl-subbuild/lvgl-populate-prefix/src/lvgl-populate-stamp/lvgl-populate-patch	cf03b9eeeedbe1c
+34605	34615	1660591386556826858	lvgl-populate-prefix/src/lvgl-populate-stamp/lvgl-populate-configure	e72c7992fa4d7c43
+34605	34615	1660591386556826858	/home/hermione/CLionProjects/EFIFrontend/cmake-build-debug/_deps/lvgl-subbuild/lvgl-populate-prefix/src/lvgl-populate-stamp/lvgl-populate-configure	e72c7992fa4d7c43
+34615	34626	1660591386566826522	lvgl-populate-prefix/src/lvgl-populate-stamp/lvgl-populate-build	41e5212e714cd4b4
+34615	34626	1660591386566826522	/home/hermione/CLionProjects/EFIFrontend/cmake-build-debug/_deps/lvgl-subbuild/lvgl-populate-prefix/src/lvgl-populate-stamp/lvgl-populate-build	41e5212e714cd4b4
+34626	34637	1660591386580159407	lvgl-populate-prefix/src/lvgl-populate-stamp/lvgl-populate-install	709c9d74065b30d2
+34626	34637	1660591386580159407	/home/hermione/CLionProjects/EFIFrontend/cmake-build-debug/_deps/lvgl-subbuild/lvgl-populate-prefix/src/lvgl-populate-stamp/lvgl-populate-install	709c9d74065b30d2
+34637	34648	1660591386590159071	lvgl-populate-prefix/src/lvgl-populate-stamp/lvgl-populate-test	c6f981d85582030d
+34637	34648	1660591386590159071	/home/hermione/CLionProjects/EFIFrontend/cmake-build-debug/_deps/lvgl-subbuild/lvgl-populate-prefix/src/lvgl-populate-stamp/lvgl-populate-test	c6f981d85582030d
+34648	34663	1660591386603491956	CMakeFiles/lvgl-populate-complete	94d44bec6060f17b
+34648	34663	1660591386603491956	lvgl-populate-prefix/src/lvgl-populate-stamp/lvgl-populate-done	94d44bec6060f17b
+34648	34663	1660591386603491956	/home/hermione/CLionProjects/EFIFrontend/cmake-build-debug/_deps/lvgl-subbuild/CMakeFiles/lvgl-populate-complete	94d44bec6060f17b
+34648	34663	1660591386603491956	/home/hermione/CLionProjects/EFIFrontend/cmake-build-debug/_deps/lvgl-subbuild/lvgl-populate-prefix/src/lvgl-populate-stamp/lvgl-populate-done	94d44bec6060f17b

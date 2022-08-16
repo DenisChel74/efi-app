@@ -1,0 +1,16 @@
+/home/hermione/CLionProjects/EFIFrontend/cmake-build-debug/CMakeFiles/bootx64.dir
+/home/hermione/CLionProjects/EFIFrontend/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/hermione/CLionProjects/EFIFrontend/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/hermione/CLionProjects/EFIFrontend/cmake-build-debug/CMakeFiles/list_install_components.dir
+/home/hermione/CLionProjects/EFIFrontend/cmake-build-debug/CMakeFiles/install.dir
+/home/hermione/CLionProjects/EFIFrontend/cmake-build-debug/CMakeFiles/install/local.dir
+/home/hermione/CLionProjects/EFIFrontend/cmake-build-debug/CMakeFiles/install/strip.dir
+/home/hermione/CLionProjects/EFIFrontend/cmake-build-debug/_deps/lvgl-build/CMakeFiles/lvgl.dir
+/home/hermione/CLionProjects/EFIFrontend/cmake-build-debug/_deps/lvgl-build/CMakeFiles/lvgl_examples.dir
+/home/hermione/CLionProjects/EFIFrontend/cmake-build-debug/_deps/lvgl-build/CMakeFiles/lvgl_demos.dir
+/home/hermione/CLionProjects/EFIFrontend/cmake-build-debug/_deps/lvgl-build/CMakeFiles/edit_cache.dir
+/home/hermione/CLionProjects/EFIFrontend/cmake-build-debug/_deps/lvgl-build/CMakeFiles/rebuild_cache.dir
+/home/hermione/CLionProjects/EFIFrontend/cmake-build-debug/_deps/lvgl-build/CMakeFiles/list_install_components.dir
+/home/hermione/CLionProjects/EFIFrontend/cmake-build-debug/_deps/lvgl-build/CMakeFiles/install.dir
+/home/hermione/CLionProjects/EFIFrontend/cmake-build-debug/_deps/lvgl-build/CMakeFiles/install/local.dir
+/home/hermione/CLionProjects/EFIFrontend/cmake-build-debug/_deps/lvgl-build/CMakeFiles/install/strip.dir
